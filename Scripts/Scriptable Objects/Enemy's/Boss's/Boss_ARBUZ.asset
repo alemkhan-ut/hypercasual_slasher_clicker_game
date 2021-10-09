@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ec2c88ff611c7343a6ad279ddeb56f5, type: 3}
+  m_Name: Boss_ARBUZ
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 3502330d9ca45b942be3204606b62976, type: 3}
+  _sprites:
+  - {fileID: 21300000, guid: 9d8e76c69d022e941bcb8be124e4d46a, type: 3}
+  _difficulty: 4
+  _modes: 00000000
+  _randomObstacles: 0
+  _randomRangeObstacles: 0
+  _minRangeObstacles: 0
+  _maxRangeObstacles: 0
+  _desiredObstaclesIndexes: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  _randomCoins: 1
+  _randomRangeCoins: 1
+  _minRangeCoins: 0
+  _maxRangeCoins: 0
+  _desiredCoinsIndexes: 0000000000000000000000000000000000000000
+  _randomBaseRotationSpeed: 0
+  _minRangeBaseRotationSpeed: 0
+  _baseRotationSpeed: 3
+  _minSpeed: 0
+  _maxSpeed: 10
+  _minTimeToSwitch: 0
+  _maxTimeToSwitch: 4
+  _randomRangeHealth: 0
+  _minRangeHealth: 0
+  _maxRangeHealth: 0
+  _health: 22
+  _takeDamage: 0.05882353
+  _oneShotOneKill: 0
+  _reset: 0
+  _generateOnlyObjects: 0
+  _appleEdit: 0
+  _saveObjects: 0
